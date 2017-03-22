@@ -3,17 +3,17 @@
   <metadata>
     <id>webdeploy</id>
     <title>Web Deploy</title>
-    <version>3.5.1</version>
+    <version>3.6</version>
     <authors>Microsoft</authors>
     <owners>Jason Capriotti</owners>
-    <summary>Web Deploy 3.5 (July 2013) - The Web Deployment Tool simplifies migration, management and deployment of IIS Web servers, Web applications and Web sites.</summary>
-    <description>Web Deploy 3.5 (July 2013) - Web Deploy (msdeploy) simplifies deployment of Web applications and Web sites to IIS servers. Administrators can use Web Deploy to synchronize IIS servers or to migrate to newer versions of IIS. Web Deploy Tool also enables administrators and delegated users to use IIS Manager to deploy ASP.NET and PHP applications to an IIS server.</description>
+    <summary>Web Deploy 3.6 (July 2015) - The Web Deployment Tool simplifies migration, management and deployment of IIS Web servers, Web applications and Web sites.</summary>
+    <description>Web Deploy 3.6 (July 2015) - Web Deploy (msdeploy) simplifies deployment of Web applications and Web sites to IIS servers. Administrators can use Web Deploy to synchronize IIS servers or to migrate to newer versions of IIS. Web Deploy Tool also enables administrators and delegated users to use IIS Manager to deploy ASP.NET and PHP applications to an IIS server.</description>
     <projectUrl>https://github.com/JCapriotti/Chocolatey-WebDeploy</projectUrl>
     <tags>WebDeploy Web Deploy MSDeploy IIS</tags>
     <copyright></copyright>
     <licenseUrl>http://www.iis.net/downloads/microsoft/web-deploy</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>3.5.1 - Cleaning up package metadata</releaseNotes>
+    <releaseNotes>3.6 - Updating to latest version</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
